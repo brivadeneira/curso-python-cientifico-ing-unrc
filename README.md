@@ -16,74 +16,74 @@ Se busca proveer una introducción sólida al poderoso lenguaje de programación
 
 ## Temario
 
-CLASE 1
-Introducción
-    • ¿Por que Python?
-    • Motivación y proyección de la actividad
+### CLASE 1
+#### Introducción
+* ¿Por que Python?
+* Motivación y proyección de la actividad
 
-Instalación
-    • ¿Cómo se usa Python?
-    • Ipython Notebook (Jupyter)
+#### Instalación
+* ¿Cómo se usa Python?
+* Ipython Notebook (Jupyter)
 
-¡Queremos programar!
-    • En el principio: Números
-    • Outs vs prints
-    • Más funciones matemáticas
+#### ¡Queremos programar!
+* En el principio: Números
+* Outs vs prints
+* Más funciones matemáticas
 
-Todo es un "objeto"
-    • Texto
-    • Indizado y rebanado
-    • Longitud de una secuencia
-    • Listas y tuplas: contenedores universales
+#### Todo es un "objeto"
+* Texto
+* Indizado y rebanado
+* Longitud de una secuencia
+* Listas y tuplas: contenedores universales
 
-Estructuras de control de flujos
-    • if/elif/else
-    • For
-    • While
-Diccionarios
-Conjuntos
+#### Estructuras de control de flujos
+* if/elif/else
+* For
+* While
+* Diccionarios
+* Conjuntos
 
-Funciones
-    • Parámetros y más parámetros
-    • Un paréntesis: docstrings
-    • Múltiples puntos de salida
-    • Parámetros opcionales
-    • Espacios de nombre y paso por asignación
+#### Funciones
+* Parámetros y más parámetros
+* Un paréntesis: docstrings
+* Múltiples puntos de salida
+* Parámetros opcionales
+* Espacios de nombre y paso por asignación
 
-Generadores
-Manejo de excepciones
+* Generadores
+* Manejo de excepciones
 
-CLASE 3
+### CLASE 3
 
-Programación Orientada a Objetos, una brevísima introducción
+#### Programación Orientada a Objetos, una brevísima introducción
 
-    • Herencia
-    • Ejercicios
+* Herencia
+* Ejercicios
 
-Módulos y paquetes
-Biblioteca estándar: las baterías puestas de Python
-Números aleatorios
-Escribir programas de línea de comando
+* Módulos y paquetes
+* Biblioteca estándar: las baterías puestas de Python
+* Números aleatorios
+* Escribir programas de línea de comando
 
-CLASE 4
+### CLASE 4
 
-Numpy, todo es un array
-    • Dimensiones, tamaño, tipo, forma
-    • Vistas
-    • Otras funciones constructoras de arrays
-    • Vectorización y funciones universales
-    • Otras herramientas de numpy
+* Numpy, todo es un array
+  * Dimensiones, tamaño, tipo, forma
+  * Vistas
+  * Otras funciones constructoras de arrays
+  * Vectorización y funciones universales
+  * Otras herramientas de numpy
 
-Matplotlib, un gráfico vale más que mil palabras
-    • Matplolib orientado a objeto
-    • Gráficos 3D
+* Matplotlib, un gráfico vale más que mil palabras
+  * Matplolib orientado a objeto
+  * Gráficos 3D
 
-CLASE 5
+### CLASE 5
 
-Scipy: parado sobre hombros de gigantes
-    • Integrales
-    • Integración de funciones con parámetros adicionales
+* Scipy: parado sobre hombros de gigantes
+  * Integrales
+  * Integración de funciones con parámetros adicionales
 
-Optimización y ajuste de curvas
-    • Encontrar mínimos
-    • Transformada de Fourier
+* Optimización y ajuste de curvas
+  * Encontrar mínimos
+  * Transformada de Fourier
